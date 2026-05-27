@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TU-DOMINIO/temas/01-arquitectura/sitemap.xml
+Sitemap: https://zeindreyes-studio.github.io/sitemap.xml
