@@ -1,4 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://zeindreyes-studio.github.io/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://zeindreyes-studio.github.io/</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://zeindreyes-studio.github.io/img/bauhaus-volumen-01-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Volumen arquitectónico Bauhaus — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Volumen arquitectónico Bauhaus, estudio de forma — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://zeindreyes-studio.github.io/img/bauhaus-modulo-02-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Retícula modular Bauhaus — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Retícula modular tipo Bauhaus — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://zeindreyes-studio.github.io/img/bauhaus-fachada-03-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Fachada estilo internacional — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Fachada de vidrio y acero, estilo internacional — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://zeindreyes-studio.github.io/img/bauhaus-taller-04-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Taller Bauhaus — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Taller Bauhaus, espacio de producción y enseñanza — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://zeindreyes-studio.github.io/img/bauhaus-mobiliario-05-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Mobiliario Bauhaus — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Mueble Bauhaus de tubo de acero curvado, diseño funcional — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://zeindreyes-studio.github.io/img/bauhaus-tipografia-06-jose-alejandro-zeind-reyes.jpg</image:loc>
+      <image:title>Tipografía geométrica Bauhaus — José Alejandro Zeind Reyes</image:title>
+      <image:caption>Tipografía geométrica sin remates de inspiración Bauhaus — José Alejandro Zeind Reyes</image:caption>
+    </image:image>
+  </url>
 </urlset>
